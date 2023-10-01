@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Pokey",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/thimble-cactus-royalty-free-image-1695063544.jpg?crop=1.00xw:0.834xh;0,0.115xh&resize=980:*",
+      "price": 12.99,
+      "id": 8
     }
   ]
 }
