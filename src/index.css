@@ -107,6 +107,7 @@ input:focus {
 
 .card img {
   width: 100%;
+  height: 75%; /* fixes cactus, not sure for other pics */
 }
 
 .card button {
